@@ -1,7 +1,5 @@
-pandas
-neattext
-scikit-learn
-matplotlib
-joblib
 streamlit
+joblib
+scikit-learn
+pandas
 numpy
