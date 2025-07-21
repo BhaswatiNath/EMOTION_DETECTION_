@@ -1,8 +1,8 @@
 import streamlit as st
 import joblib
 
-model = joblib.load('model.pkl')
-vectorizer = joblib.load('vectorizer.pkl')
+model = joblib.load('model3.pkl')
+vectorizer = joblib.load('vectorizer3.pkl')
 
 st.title("Emotion Detection App")
 
